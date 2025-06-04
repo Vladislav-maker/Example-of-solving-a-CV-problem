@@ -1,0 +1,3 @@
+[submodule "easy-yolo-ocr"]
+	path = easy-yolo-ocr
+	url = https://github.com/aqntks/Easy-Yolo-OCR.git
