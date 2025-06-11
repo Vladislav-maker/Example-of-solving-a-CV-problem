@@ -17,6 +17,6 @@
 1. Датасет CORD был преобразован и помещен в папку `dataset`  
 2. Была дообучена модель YOLO v 5 s под классификацию 4 классов - nm (наименование позиции в чеке); cnt (количество позиции); price (цена); total (общая стоимость).
 
-| [!image](./pictures/P_curve.png) | [!image](./pictures/results.png)|
+ [!image](./pictures/P_curve.png) 
 
 3. Проверены и загружены веса для Inference - решения, см. `Inference.ipynb`
