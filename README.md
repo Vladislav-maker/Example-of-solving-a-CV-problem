@@ -25,4 +25,4 @@
 
 3. Проверены и загружены веса для Inference - решения, см. `Inference.ipynb`. См. пример результата работы, обученной YOLO:
    
-![image](/pictures/example0.jpg")
+![image](./pictures/example0.jpg)
